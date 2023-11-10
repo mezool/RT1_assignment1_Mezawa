@@ -6,10 +6,11 @@ This is my codes which control the robot to put all the golden boxes together
 $ python run.py assignment.py 
 ``` 
 
+## flowchart
 The flowchart of this codes is shown as follows:
 
 
-There are three things I did in this code
+### There are three things I did in this code
 
 ・I made it possible for the robot to find other tokens without detecting the token the robot already grabs.
 
@@ -17,7 +18,7 @@ There are three things I did in this code
 
 ・I made use of functions so that the same code is not repeated.
 
-There are two issues to be addressed in the future.
+### There are two issues to be addressed in the future.
 
 ・To make it possible to detect the number of markers to be collected.
 
