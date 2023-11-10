@@ -8,6 +8,7 @@ $ python run.py assignment.py
 
 ## flowchart
 The flowchart of this codes is shown as follows:
+![flowchart](flowchart.jpg)
 
 
 ## There are three things I did in this code
